@@ -1,0 +1,5 @@
+
+echo "🔍 Running ESLint and Prettier..."
+npm run lint:fix
+npx lint-staged
+
